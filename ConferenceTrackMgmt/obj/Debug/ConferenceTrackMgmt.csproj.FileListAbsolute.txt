@@ -1,0 +1,6 @@
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\ConferenceTrackMgmt\bin\Debug\ConferenceTrackMgmt.exe.config
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\ConferenceTrackMgmt\bin\Debug\ConferenceTrackMgmt.exe
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\ConferenceTrackMgmt\bin\Debug\ConferenceTrackMgmt.pdb
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\ConferenceTrackMgmt\obj\Debug\ConferenceTrackMgmt.csprojResolveAssemblyReference.cache
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\ConferenceTrackMgmt\obj\Debug\ConferenceTrackMgmt.exe
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\ConferenceTrackMgmt\obj\Debug\ConferenceTrackMgmt.pdb

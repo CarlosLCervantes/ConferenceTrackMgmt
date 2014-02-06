@@ -1,0 +1,7 @@
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\bin\Debug\SchedTests.dll
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\bin\Debug\SchedTests.pdb
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\obj\Debug\SchedTests.csprojResolveAssemblyReference.cache
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\obj\Debug\SchedTests.dll
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\obj\Debug\SchedTests.pdb
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\bin\Debug\ConferenceTrackMgmt.exe
+c:\users\s\documents\visual studio 2013\Projects\ConferenceTrackMgmt\SchedTests\bin\Debug\ConferenceTrackMgmt.pdb
